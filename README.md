@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sfc-gh-dgillis
+- 👋 Hi, I’m Dan Gillis!
 - 👀 I’m interested in Go, Python, Bash, Cue, Data Engineering, etc.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I play the drums
